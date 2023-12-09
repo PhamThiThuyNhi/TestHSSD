@@ -9,7 +9,7 @@
 
 body {
     margin: 0 auto;
-
+    font-size: 25px;
 }
 
 .outer {
@@ -189,10 +189,20 @@ hgroup p {
 }
 
 .ND{
-    font-size: 20px;
+    font-size: 25px;
 }
 
+i{
+    font-style: italic;
+    display: grid;
+    place-items: center;
+    align-items: center;
+    text-align: center;
 
+}
+p{
+    font-size: 20px;
+}
 
 
 /* .DangNhap img {
